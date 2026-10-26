@@ -1,0 +1,64 @@
+* {
+    font-family: Arial, Helvetica, sans-serif
+}
+
+p, h1{
+    color: darkred;
+}
+
+hr {
+    border: 7px solid darkred;
+    border-radius:  7px;
+}
+
+.funazu {
+    background-color: lightblue;
+    border: 1px black solid;
+    height: 30px;
+}
+
+.envia1 {
+    background-color: gold;
+    border-radius: 4px ;
+    border-color: blueviolet;
+    height: 30px;
+}
+
+.area1 {
+    resize: none;
+    background-color: lightblue;
+    width: 500px;
+    height: 80px;
+}
+
+.field03 {
+    color: blueviolet;
+    border-color: blueviolet;
+    border-radius: 8px;
+}
+
+.envia3 {
+    color: blue;
+}
+
+.pesq {
+    height: 40px;
+    border-radius: 4px;
+    border: solid salmon;
+}
+
+.envia4 {
+    border: red solid 1px;
+    border-radius: 10px;
+    color: red;
+    background-color: black;
+    height: 40px;
+    width: auto;
+}
+
+.field05 {
+    color: green;
+    border: 3px solid orange;
+    font-weight: bold;
+    font-style: italic;
+}
